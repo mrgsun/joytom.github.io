@@ -12,14 +12,14 @@
 title: 小欣专栏
 brief-intro: 不是进入状态再去学习，而是先去学习才能找到状态!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joytom.github.io" # the base hostname & protocol for your site
+url: "https://mrgsun.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username:
 facebook_username:
-github_username: joytom
+github_username: mrgsun
 email: 18254040293@163.com
 weibo_username: 
 zhihu_username: 
@@ -30,7 +30,7 @@ description_footer: Copyright © 2018  鲁ICP备18052407号-1
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-disqus_shortname: #joytom
+disqus_shortname: #mrgsun
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
