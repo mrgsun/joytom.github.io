@@ -18,7 +18,7 @@ author: mrgsev
 
 * GitHub：[joytom](https://github.com/mrgsun){:target="_blank"}
 * email：1589088794@.qqcom
-* QQ:1589088794
+* QQ:1589088794 
 
 ## 关于本站
 
