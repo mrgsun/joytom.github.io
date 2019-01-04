@@ -17,7 +17,7 @@ Ajax==异步的JavaScript和xml ，创建快速动态网页的技术，通过后
 jQuery是js（JavaScript）的类库，里边封装了大量的js底层代码。
 jquery的操作ajax提供了两种方法。
 1. **$ajax()**
-```
+```php
 $.ajax({
     url: "url" ,
     type: "get/post",
@@ -31,7 +31,7 @@ $.ajax({
 })
 ```
 2. **$.get()\$.post()**
-```
+```html
 $.get(
             "url",
             {userID:"123"},
@@ -40,7 +40,7 @@ $.get(
         );
 ```
 或者、
-```
+```html
 $.post(
             "url",
             {userID:"123"},
@@ -49,7 +49,7 @@ $.post(
         );
 ```
 案例：
-```
+```html
 $(function(){
     $.ajax({
         type:"GET",
@@ -63,7 +63,7 @@ $(function(){
 })
 ```
 传值：
-```
+```html
 $.ajax({
     url: '',
     type:'post',
