@@ -31,7 +31,7 @@ $.ajax({
 })
 ```
 2. **$.get()\$.post()**
-```html
+```php
 $.get(
             "url",
             {userID:"123"},
@@ -40,7 +40,7 @@ $.get(
         );
 ```
 或者、
-```html
+```php
 $.post(
             "url",
             {userID:"123"},
@@ -49,7 +49,7 @@ $.post(
         );
 ```
 案例：
-```html
+```php
 $(function(){
     $.ajax({
         type:"GET",
@@ -63,7 +63,7 @@ $(function(){
 })
 ```
 传值：
-```html
+```php
 $.ajax({
     url: '',
     type:'post',
