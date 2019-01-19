@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是我的开始"
+title:  "AJAX"
 categories: Personal
 tags:  Personal
 author: mrgsev
