@@ -3,7 +3,7 @@ layout: post
 title:  "这是我的开始"
 categories: Personal
 tags:  Personal
-author: mrgsev
+type: page
 ---
 
 * content
