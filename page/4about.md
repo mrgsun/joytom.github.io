@@ -47,3 +47,4 @@ type: page
 <!-- City版安装代码已完成 -->
 ## 与我交流
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1589088794&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1589088794:53" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+欢迎联系我：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1589088794&site=qq&menu=yes"><img style="width:75px; height:23px" border="0" src="http://wpa.qq.com/pa?p=2:1589088794:41" alt="点击这里给我发消息" title="点击这里给我发消息"></a>
